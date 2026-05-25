@@ -27,7 +27,7 @@ export default function Hero() {
               Tecnología<br /><span className="text-primary">sin límites</span>
             </h1>
             <p className="text-lg sm:text-xl text-primary-foreground/70 font-body leading-relaxed mb-10 max-w-lg">
-            Soporte técnico especializado, venta de equipos y accesorios esenciales para el día a día. Protegemos y optimizamos tu hogar o empresa con soluciones avanzadas de seguridad electrónica.
+              Soporte técnico especializado, venta de equipos y accesorios esenciales para el día a día. Protegemos y optimizamos tu hogar o empresa con soluciones avanzadas de seguridad electrónica.
             </p>
           </motion.div>
           <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.8, delay: 0.3 }} className="flex flex-col sm:flex-row gap-4">
