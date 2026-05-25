@@ -5,7 +5,7 @@ module.exports = {
       "./index.html",
       "./App.jsx",
       "./main.jsx",
-      "./Components/**/*.{js,jsx}",
+      "./components/**/*.{js,jsx}",
       "./pages/**/*.{js,jsx}",
       "./lib/**/*.{js,jsx}",
     ],

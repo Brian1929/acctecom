@@ -12,7 +12,8 @@ export default defineConfig({
   resolve: {
     alias: {
       '@': path.resolve(__dirname, '.'),
-      '@/Components': path.resolve(__dirname, 'Components'),
+      '@/components': path.resolve(__dirname, 'components'),
+      '@/Components': path.resolve(__dirname, 'components'),
     },
   },
   plugins: [

@@ -12,8 +12,8 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
-# Copia generada por prebuild (Components -> components)
-components
+# Copia generada por prebuild (Components -> components) - Eliminado para rastrear por Git
+# components
 dist
 dist-ssr
 *.local
